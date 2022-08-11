@@ -1,4 +1,4 @@
-package stuff;
+//package stuff;
 
 public class HWorld {
 
